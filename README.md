@@ -1,1 +1,3 @@
-# lab3
+# Project Members
+Kate McCarthy
+yes
