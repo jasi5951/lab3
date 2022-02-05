@@ -1,2 +1,3 @@
 # lab3
-Project Team Members: Zoie Nuno
+Project Team Members:
+Zoie Nuno
