@@ -6,6 +6,10 @@ yes
 # lab3
 
 Project Team Members:
+Diego Cornejo
+=======
+
+Project Team Members:
 Zoie Nuno
 
 
@@ -15,7 +19,10 @@ Jasdeep Singh
 
 
 Step 10 edits made by Jasdeep
+
+Project Team Members:
+Diego Cornejo
+
 Jasdeep
 more changes by charlie
-
 
