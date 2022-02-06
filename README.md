@@ -1,4 +1,9 @@
 
+# lab 3 
+Project Team Members: 
+Luke Luke Luke 
+
+
 # Project Members
 Kate McCarthy
 yes
@@ -33,5 +38,6 @@ Diego Cornejo
 
 Jasdeep
 more changes by charlie
+
 
 
